@@ -48,7 +48,7 @@ const Dashboard: React.FC = () => {
             <Filter className="w-12 h-12 text-blue-500 mb-6" />
             <h3 className="text-2xl font-bold text-blue-700">数据清洗</h3>
             <div className="absolute opacity-0 group-hover:opacity-100 bg-gray-800 text-white text-base p-4 rounded -top-20 transition-opacity w-64 text-center pointer-events-none z-10 shadow-xl">
-              剔除 GrLivArea > 4000<br/>缺失值中位数/None填充
+              剔除 GrLivArea &gt; 4000<br/>缺失值中位数/None填充
             </div>
             <p className="text-lg text-center text-slate-600 mt-4 font-medium">离群点剔除<br/>缺失值分层填补</p>
           </div>
