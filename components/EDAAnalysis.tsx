@@ -97,7 +97,7 @@ const EDAAnalysis: React.FC = () => {
         <div className="bg-white p-6 rounded-xl shadow-sm border border-slate-200">
             <h3 className="text-lg font-bold text-slate-800 mb-2">居住面积与房价回归 (Outliers)</h3>
             <p className="text-sm text-slate-500 mb-6">
-            物理剔除：右下角面积 > 4000 sq ft 但价格极低的样本被识别为异常点。
+            物理剔除：右下角面积 &gt; 4000 sq ft 但价格极低的样本被识别为异常点。
             </p>
             <div className="h-[400px]">
             <ResponsiveContainer width="100%" height="100%">
