@@ -1,0 +1,5 @@
+{
+  "name": "Ames Housing Predictor Pro",
+  "description": "Interactive visualization for Ames Housing Price Prediction project, featuring EDA insights, model comparison, and a live ensemble prediction simulator.",
+  "requestFramePermissions": []
+}
